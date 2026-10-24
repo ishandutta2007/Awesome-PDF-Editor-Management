@@ -2,7 +2,7 @@
 
 # Awesome-PDF-Editor-Management
 
-# Top PDF Editor & Management Tools Ecosystem
+## Top PDF Editor & Management Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Toolkits, Browser-Local Editing & Page-Level Management*  
