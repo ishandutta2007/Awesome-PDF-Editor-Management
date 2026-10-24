@@ -70,9 +70,9 @@ The table below catalogs notable commercial and cloud PDF editor platforms, **so
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are the most prominent open-source projects in the PDF ecosystem. Each repository features a social star badge linking directly to that repository's stargazers page, **sorted descending by GitHub star count**.
+Below are the most prominent open-source projects in the PDF ecosystem. Each repository features a social Stars_Badge linking directly to that repository's stargazers page, **sorted descending by GitHub Stars_Count**.
 
-### 1. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) [![GitHub stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)
+### 1. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) [![GitHub_Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)
 * **Category**: Self-Hosted Web Toolkit & All-in-One Utility Suite
 * **License**: Open-Core / GPL-3.0
 * **Description**: The #1 open-source self-hosted PDF manipulation web application on GitHub. Bundles 50+ tools in a single Docker container.
@@ -85,7 +85,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 2. [PDF.js](https://github.com/mozilla/pdf.js) [![GitHub stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=social&color=white)](https://github.com/mozilla/pdf.js/stargazers)
+### 2. [PDF.js](https://github.com/mozilla/pdf.js) [![GitHub_Stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=social&color=white)](https://github.com/mozilla/pdf.js/stargazers)
 * **Category**: Web Standards PDF Viewer & Parser Engine
 * **License**: Apache-2.0
 * **Description**: Mozilla's foundational, community-driven HTML5 and Web Standards PDF reader and viewer engine.
@@ -93,7 +93,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 3. [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [![GitHub stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)
+### 3. [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [![GitHub_Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)
 * **Category**: Self-Hosted Document Management & Archival System (DMS)
 * **License**: GPL-3.0
 * **Description**: Community-driven self-hosted document management system that transforms physical paper and digital PDFs into searchable, organized digital archives.
@@ -101,7 +101,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 4. [KOReader](https://github.com/koreader/koreader) [![GitHub stars](https://img.shields.io/github/stars/koreader/koreader?style=social&color=white)](https://github.com/koreader/koreader/stargazers)
+### 4. [KOReader](https://github.com/koreader/koreader) [![GitHub_Stars](https://img.shields.io/github/stars/koreader/koreader?style=social&color=white)](https://github.com/koreader/koreader/stargazers)
 * **Category**: Document Viewer & E-Reader Engine
 * **License**: AGPL-3.0
 * **Description**: Versatile document and ebook viewer engineered for E-Ink screens, desktop, Android, and embedded devices.
@@ -109,7 +109,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 5. [@react-pdf/renderer](https://github.com/diegomura/react-pdf) [![GitHub stars](https://img.shields.io/github/stars/diegomura/react-pdf?style=social&color=white)](https://github.com/diegomura/react-pdf/stargazers)
+### 5. [@react-pdf/renderer](https://github.com/diegomura/react-pdf) [![GitHub_Stars](https://img.shields.io/github/stars/diegomura/react-pdf?style=social&color=white)](https://github.com/diegomura/react-pdf/stargazers)
 * **Category**: Declarative React PDF Generation Framework
 * **License**: MIT
 * **Description**: Declarative React framework for building custom PDF documents on the browser and server.
@@ -117,7 +117,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 6. [Xournal++](https://github.com/xournalpp/xournalpp) [![GitHub stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social&color=white)](https://github.com/xournalpp/xournalpp/stargazers)
+### 6. [Xournal++](https://github.com/xournalpp/xournalpp) [![GitHub_Stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social&color=white)](https://github.com/xournalpp/xournalpp/stargazers)
 * **Category**: Handwriting, Stylus Annotation & Note-Taking
 * **License**: GPL-2.0
 * **Description**: Modern, open-source handwriting, sketching, and PDF annotation software written in C++ with GTK.
@@ -125,7 +125,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 7. [Documenso](https://github.com/documenso/documenso) [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
+### 7. [Documenso](https://github.com/documenso/documenso) [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
 * **Category**: Self-Hosted Digital Signatures & Contract Workflows
 * **License**: AGPL-3.0
 * **Description**: The open-source DocuSign alternative for cryptographic signing and contract lifecycle management.
@@ -133,7 +133,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 8. [pdfmake](https://github.com/bpampuch/pdfmake) [![GitHub stars](https://img.shields.io/github/stars/bpampuch/pdfmake?style=social&color=white)](https://github.com/bpampuch/pdfmake/stargazers)
+### 8. [pdfmake](https://github.com/bpampuch/pdfmake) [![GitHub_Stars](https://img.shields.io/github/stars/bpampuch/pdfmake?style=social&color=white)](https://github.com/bpampuch/pdfmake/stargazers)
 * **Category**: Declarative JavaScript Document Generation
 * **License**: MIT
 * **Description**: Pure JavaScript client/server PDF generation engine using declarative JSON document definitions.
@@ -141,7 +141,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 9. [PyMuPDF](https://github.com/pymupdf/PyMuPDF) [![GitHub stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers)
+### 9. [PyMuPDF](https://github.com/pymupdf/PyMuPDF) [![GitHub_Stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers)
 * **Category**: Python High-Performance PDF Engine
 * **License**: AGPL-3.0 / Commercial
 * **Description**: High-performance Python bindings for MuPDF, one of the fastest PDF rendering and extraction engines in existence.
@@ -149,7 +149,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 10. [PDFKit](https://github.com/foliojs/pdfkit) [![GitHub stars](https://img.shields.io/github/stars/foliojs/pdfkit?style=social&color=white)](https://github.com/foliojs/pdfkit/stargazers)
+### 10. [PDFKit](https://github.com/foliojs/pdfkit) [![GitHub_Stars](https://img.shields.io/github/stars/foliojs/pdfkit?style=social&color=white)](https://github.com/foliojs/pdfkit/stargazers)
 * **Category**: Node.js & Browser PDF Generation Library
 * **License**: MIT
 * **Description**: Foundational PDF generation library for Node.js and the browser with comprehensive vector graphics support.
@@ -157,7 +157,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 11. [pypdf](https://github.com/py-pdf/pypdf) [![GitHub stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers)
+### 11. [pypdf](https://github.com/py-pdf/pypdf) [![GitHub_Stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers)
 * **Category**: Pure-Python Manipulation & Transformation Library
 * **License**: BSD-3-Clause
 * **Description**: Pure-Python library capable of splitting, merging, cropping, and transforming pages of PDF files without external C libraries.
@@ -165,7 +165,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 12. [WeasyPrint](https://github.com/Kozea/WeasyPrint) [![GitHub stars](https://img.shields.io/github/stars/Kozea/WeasyPrint?style=social&color=white)](https://github.com/Kozea/WeasyPrint/stargazers)
+### 12. [WeasyPrint](https://github.com/Kozea/WeasyPrint) [![GitHub_Stars](https://img.shields.io/github/stars/Kozea/WeasyPrint?style=social&color=white)](https://github.com/Kozea/WeasyPrint/stargazers)
 * **Category**: HTML/CSS to PDF Visual Rendering Engine
 * **License**: BSD-3-Clause
 * **Description**: Visual rendering engine that transforms HTML and CSS into print-ready PDF documents.
@@ -173,7 +173,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 13. [pdfcpu](https://github.com/pdfcpu/pdfcpu) [![GitHub stars](https://img.shields.io/github/stars/pdfcpu/pdfcpu?style=social&color=white)](https://github.com/pdfcpu/pdfcpu/stargazers)
+### 13. [pdfcpu](https://github.com/pdfcpu/pdfcpu) [![GitHub_Stars](https://img.shields.io/github/stars/pdfcpu/pdfcpu?style=social&color=white)](https://github.com/pdfcpu/pdfcpu/stargazers)
 * **Category**: Go PDF CLI & Processing Engine
 * **License**: Apache-2.0
 * **Description**: High-performance PDF processing engine and CLI written entirely in Go with zero runtime dependencies.
@@ -181,7 +181,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 14. [pdf-lib](https://github.com/Hopding/pdf-lib) [![GitHub stars](https://img.shields.io/github/stars/Hopding/pdf-lib?style=social&color=white)](https://github.com/Hopding/pdf-lib/stargazers)
+### 14. [pdf-lib](https://github.com/Hopding/pdf-lib) [![GitHub_Stars](https://img.shields.io/github/stars/Hopding/pdf-lib?style=social&color=white)](https://github.com/Hopding/pdf-lib/stargazers)
 * **Category**: TypeScript/JavaScript In-Browser & Server PDF Editor
 * **License**: MIT
 * **Description**: Pure TypeScript library for creating and modifying PDF documents in any JavaScript runtime (Node, Deno, browser).
@@ -189,7 +189,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 15. [PDF Arranger](https://github.com/pdfarranger/pdfarranger) [![GitHub stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=social&color=white)](https://github.com/pdfarranger/pdfarranger/stargazers)
+### 15. [PDF Arranger](https://github.com/pdfarranger/pdfarranger) [![GitHub_Stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=social&color=white)](https://github.com/pdfarranger/pdfarranger/stargazers)
 * **Category**: Desktop Visual Page Reorganizer
 * **License**: GPL-3.0
 * **Description**: Lightweight Python GTK desktop application for visual page-level reordering, cropping, splitting, and merging.
@@ -197,7 +197,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 16. [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) [![GitHub stars](https://img.shields.io/github/stars/pdf2htmlEX/pdf2htmlEX?style=social&color=white)](https://github.com/pdf2htmlEX/pdf2htmlEX/stargazers)
+### 16. [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) [![GitHub_Stars](https://img.shields.io/github/stars/pdf2htmlEX/pdf2htmlEX?style=social&color=white)](https://github.com/pdf2htmlEX/pdf2htmlEX/stargazers)
 * **Category**: Pixel-Perfect PDF to HTML Converter
 * **License**: GPL-3.0
 * **Description**: Converts PDF to HTML with pixel-perfect visual fidelity, preserving typography, layout, formulas, and vector elements.
@@ -205,7 +205,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 17. [PDFsam Basic](https://github.com/torakiki/pdfsam) [![GitHub stars](https://img.shields.io/github/stars/torakiki/pdfsam?style=social&color=white)](https://github.com/torakiki/pdfsam/stargazers)
+### 17. [PDFsam Basic](https://github.com/torakiki/pdfsam) [![GitHub_Stars](https://img.shields.io/github/stars/torakiki/pdfsam?style=social&color=white)](https://github.com/torakiki/pdfsam/stargazers)
 * **Category**: Desktop Offline Page Management
 * **License**: AGPL-3.0
 * **Description**: Mature, battle-tested open-source desktop utility for offline PDF page management since 2006.
@@ -213,7 +213,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 18. [LibreOffice Draw](https://github.com/LibreOffice/core) [![GitHub stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)
+### 18. [LibreOffice Draw](https://github.com/LibreOffice/core) [![GitHub_Stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)
 * **Category**: Desktop Vector & Direct PDF Editor
 * **License**: MPL-2.0
 * **Description**: Open-source desktop vector and graphics tool capable of importing PDFs as editable vector drawings.
@@ -221,7 +221,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 19. [Inkscape](https://github.com/inkscape/inkscape) [![GitHub stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers)
+### 19. [Inkscape](https://github.com/inkscape/inkscape) [![GitHub_Stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers)
 * **Category**: Desktop Vector Illustration & Precision PDF Editing
 * **License**: GPL-3.0
 * **Description**: Professional open-source vector graphics editor capable of opening and editing complex graphic-heavy PDF pages.
@@ -229,7 +229,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 20. [Apache PDFBox](https://github.com/apache/pdfbox) [![GitHub stars](https://img.shields.io/github/stars/apache/pdfbox?style=social&color=white)](https://github.com/apache/pdfbox/stargazers)
+### 20. [Apache PDFBox](https://github.com/apache/pdfbox) [![GitHub_Stars](https://img.shields.io/github/stars/apache/pdfbox?style=social&color=white)](https://github.com/apache/pdfbox/stargazers)
 * **Category**: Enterprise Java PDF Library & CLI Tools
 * **License**: Apache-2.0
 * **Description**: The enterprise standard Java tool library for creating, manipulating, and extracting content from PDF documents.
@@ -237,7 +237,7 @@ Below are the most prominent open-source projects in the PDF ecosystem. Each rep
 
 ---
 
-### 21. [PdfDing](https://github.com/mrmn2/PdfDing) [![GitHub stars](https://img.shields.io/github/stars/mrmn2/PdfDing?style=social&color=white)](https://github.com/mrmn2/PdfDing/stargazers)
+### 21. [PdfDing](https://github.com/mrmn2/PdfDing) [![GitHub_Stars](https://img.shields.io/github/stars/mrmn2/PdfDing?style=social&color=white)](https://github.com/mrmn2/PdfDing/stargazers)
 * **Category**: Self-Hosted PDF Shelf, Reader & Annotation Manager
 * **License**: AGPL-3.0
 * **Description**: Lightweight self-hosted PDF reading, bookmarking, and annotation library manager.
